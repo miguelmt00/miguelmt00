@@ -1,6 +1,6 @@
-## Ola eu sou o Miguel
-
+## 
 - 🌱 Apenas um estudante de Programção
+  
 ![MIGUEL GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelmt00&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelmt00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 <picture>
